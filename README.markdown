@@ -1,5 +1,5 @@
-# Clown Factory
-## A game by Ali Ukani, Nikita Filatov, and Rory Sawyer
+# Clown Factory  
+A game by Ali Ukani, Nikita Filatov, and Rory Sawyer
 
 Our final project for Fundamentals of Computer Science 2, Northeastern University College of Computer and Information Science, Fall 2011 semester
 
